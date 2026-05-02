@@ -1,5 +1,5 @@
-Here is a complete, professional GitHub profile README.md file. It dynamically presents the extracted resume information with a modern layout, animated elements, badges, stats, and a cohesive dark theme optimized for recruiter viewing.
-```markdown
+
+
 <!---
 🎯 DYNAMIC GITHUB PROFILE README
 Built for Nikhita G Negalur — Extracted from resume data.
@@ -199,4 +199,3 @@ I'm actively seeking **internship / entry-level software engineering roles** whe
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nikhita22032003/Nikhita22032003/output/snake.svg" alt="Snake animation" />
 </p>
-```
